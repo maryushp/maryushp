@@ -15,6 +15,5 @@
 ## ⚡Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryush-padhol/)
 
-<!-- ## 🏆Stats: --!>
-<!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=maryushp&theme=dark&hide_border=false) ---!>
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryushp&hide_progress=false&exclude_repo=budget_calculator&layout=donut) ---!>
+## 🏆Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=maryushp&theme=dark)](https://git.io/streak-stats)
