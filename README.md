@@ -16,6 +16,3 @@
 
 ## ⚡Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryush-padhol/)
-
-## 🏆Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=maryushp&theme=github-dark)]()
