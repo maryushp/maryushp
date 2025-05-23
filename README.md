@@ -1,6 +1,6 @@
 # ✨ About me:
 - Bachelor's student of Applied Computer Science at Wroclaw University of Science and Technology
-- Ambitious Java Backend programmer
+- Ambitious Java  programmer
 
 ## 🚀 Technologies:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/maryushp/webshop)
@@ -13,6 +13,3 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/maryushp/floristic-boom-ui)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/maryushp/game-keys-store)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-## ⚡Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryush-padhol/)
